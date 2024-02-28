@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(3, 3, 49);
+    
+    
+}
+.con-box{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.box{
+    background-color: blue;
+    height: 250px;
+    width: 200px;
+    border: solid rgb(252, 237, 237) 1px ;
+    text-align: center;
+
+}
+
+.box1{
+    background-color: blue;
+    border-color: blue;
+    font-size: 25px;
+    height: 250px;
+    width: 200px;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+h2{
+    color: aliceblue;
+    margin-top: 100px;
+}
+
+.sub{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
