@@ -7,6 +7,9 @@ body{
     display: flex;
     gap: 20px;
     justify-content: center;
+    position: absolute;
+    top: 30%;
+    left: 30%;
 }
 .box{
     background-color: rgb(9, 9, 12);
@@ -36,4 +39,14 @@ h2{
     display: flex;
     justify-content: center;
     margin-top: 20px;
+    position: absolute;
+    top: 70%;
+    left: 52%;
+  
+}
+
+.sub1{ 
+    height: 200px;
+    width: 400px;
+    background-color: aqua;
 }
